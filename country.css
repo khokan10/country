@@ -1,0 +1,11 @@
+#countries-name{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.style{
+    border: 5px solid goldenrod;
+    margin: 2px;
+    padding: 2px;
+    border-radius: 5px;
+}
